@@ -26,7 +26,7 @@ A full-stack MERN application for managing products with CRUD operations.
 
 ## Live Demo
 
-🚀 **[View Live App](https://your-app-name.vercel.app)**
+🚀 **[View Live App](https://product-app-mern-stack.onrender.com)**
 
 ## Local Development
 
