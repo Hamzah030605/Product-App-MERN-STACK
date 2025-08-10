@@ -25,11 +25,18 @@ A full-stack MERN application for managing products with CRUD operations.
 - dotenv
 
 
-<img width="1511" height="997" alt="Screenshot 2025-08-10 at 11 30 06" src="https://github.com/user-attachments/assets/9fe17fce-fa39-4ae8-93dc-d9a522966ad9" />
 
 ## Live Demo
 
 🚀 **[View Live App](https://product-app-mern-stack.onrender.com)**
+
+
+
+
+## UserInterface
+
+<img width="1511" height="997" alt="Screenshot 2025-08-10 at 11 30 06" src="https://github.com/user-attachments/assets/9fe17fce-fa39-4ae8-93dc-d9a522966ad9" />
+
 
 ## Local Development
 
